@@ -46,16 +46,18 @@
 }
 
 .search button {
-  padding: 0.8rem;
+  padding: 0.7rem;
+  width: 20.5%;
   border: none;
-  border-radius: 10%;
   margin: 1rem;
   background: rgb(78, 136, 241);
+  font-size: 1rem;
 }
 
 .search input {
   width: 20%;
-  border: 2px solid black;
+  border: 2.3px solid black;
+  height: 2rem;
 }
 
 .weather-info h1 {
