@@ -1,3 +1,10 @@
+# Weather API 
+
+## Weather website. Uses [weatherapi.com](https://www.weatherapi.com/).
+ 
+![weather](https://github.com/BibianaBalBar/React-Weather-API/blob/main/img/weather.gif)
+
+    //////////////////////////////////////////////////////////////
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
